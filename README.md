@@ -11,7 +11,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## ⚙ BACK-END
 - JavaScript
-- Api: Google nativa Voz
+- Api Nativa Google: Voz
 - HTML 5
 - CSS 3
 - Git e Github
