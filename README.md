@@ -1,24 +1,22 @@
 <h1 align="center">Voz</h1>
 
-<p align="center">Projeto desenvolvido durante estudos com a linguagem <strong>JavaScript.</strong><br/>
-</p>
+<p align="center">Projeto desenvolvido durante estudos em JavaScript, explorando a API nativa do Google para reconhecimento de voz.</p>
 
 <br>
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-## ⚙ BACK-END
-- JavaScript
-- Api Nativa Google: Voz
-- HTML 5
-- CSS 3
-- Git e Github
+### ⚙ BACK-END
+- **JavaScript**
+- API Nativa do Google para Reconhecimento de Voz
+- HTML5
+- CSS3
+- Git e GitHub
 
-## 💻 Projeto
+## 💻 Sobre o Projeto
 
-O intuito desse projeto é conhecer as diversas funcionabilidades que o <strong>JavaScript</strong> é capaz de fazer.
+O objetivo deste projeto é demonstrar as diversas funcionalidades que o JavaScript pode oferecer, com foco no reconhecimento de voz.
 
-- [Visite o projeto online](https://voz.vercel.app/)
-
+- [Clique aqui para visitar o projeto online](https://voz.vercel.app/)
